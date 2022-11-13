@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_to_home" type="id" />
+    <item name="homeFragment" type="id" />
+
+    <item name="action_to_dashboard" type="id" />
+    <item name="dashboardFragment" type="id" />
+
+    <item name="action_to_notifications" type="id" />
+    <item name="notificationsFragment" type="id" />
+</resources>
